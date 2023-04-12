@@ -1,4 +1,4 @@
-# Iryna-Gry-goit-nodejs-hw-01
+# goit-nodejs-hw-01
 
 # Get and display the entire list of contacts in the form of a table (console.table)
 
